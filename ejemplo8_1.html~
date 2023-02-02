@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Ejemplo 8</title>
+  <link href="ejemplo8.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+	<h1>Ejemplo 8</h1>
+	<p>Este ejemplo pretende centrar verticalmente un texto frente a una imagen</p>
+	<ul>
+   		<li>
+    		  
+			<img   src="220px-Green_tea_leaves.jpg" width="107" height="90" alt="Hojas de té verde"/> 
+    		  
+      		  <p> El té verde (chino tradicional: 綠茶, chino simplificado: 绿茶, pinyin: Lǜ chá) es un tipo de té Camellia sinensis que ha tenido mínima oxidación durante su procesado. 
+      		  </p>
+  		</li>
+	</ul>
+	
+</body>
+</html>

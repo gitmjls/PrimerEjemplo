@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+border: olive 1px solid; 
+}
+
+ul{ list-style:none; margin:0px;}
+ul li{ margin-bottom:20px;}
+ul li .imagen{ border:1px solid #666; width:107px; height:100px; float:left; margin-right:10px;}
+ul li .texto{ color:#000; font-size:14px; min-height:110px; }
+ul li .texto p{ margin:0px;}
+
+/*para centrar verticalmente, deberemos aplicar los siguientes estilos:
+
+    Para los items de la lista (li) deberemos indicar display:table para que siga un comportamiento de tabla
+    A la clase “texto” se le aplicarán las propiedades display:table-cell; y vertical-align:middle
+
